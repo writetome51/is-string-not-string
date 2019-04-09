@@ -13,9 +13,7 @@
   "keywords": [
     "is",
     "not",
-    "number",
-    "integer",
-    "float",
+    "string",
     "type-checking",
     "type",
     "check",
