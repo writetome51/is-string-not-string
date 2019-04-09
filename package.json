@@ -1,0 +1,32 @@
+{
+  "name": "@writetome51/is-string-not-string",
+  "version": "1.0.0",
+  "description": "2 functions that check if argument is or is not string",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/writetome51/is-string-not-string.git"
+  },
+  "keywords": [
+    "is",
+    "not",
+    "number",
+    "integer",
+    "float",
+    "type-checking",
+    "type",
+    "check",
+    "data-type"
+  ],
+  "author": "Steve Thompson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/writetome51/is-string-not-string/issues"
+  },
+  "homepage": "https://github.com/writetome51/is-string-not-string#readme",
+  "dependencies": {
+  }
+}
