@@ -1,8 +1,9 @@
 {
   "name": "@writetome51/is-string-not-string",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "2 functions that check if argument is or is not string",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

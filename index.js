@@ -1,14 +1,9 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
-
-
-function isString(arg) {
+export function isString(arg) {
     return (typeof arg === 'string');
 }
-exports.isString = isString;
 
 
-function notString(arg) {
+export function notString(arg) {
     return !(isString(arg));
 }
-exports.notString = notString;
+

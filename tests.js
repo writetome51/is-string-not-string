@@ -1,7 +1,4 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
-var isString = require("./index").isString;
-var notString = require("./index").notString;
+import {isString, notString} from './index.js';
 
 
 var strings = ['', ' ', '	', '\n', '\r', '\\', '\'', '"', '`', '1', '0', '!@#$%^&*()'];
